@@ -1,5 +1,5 @@
 <div align="center">
-    <img width="256" src="./antomodpack.png"></img>
+    <img width="512" src="./antomodpack.png"></img>
 </div>
 
 
